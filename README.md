@@ -2,7 +2,7 @@
 
 Final project for the Data Science Lab course @Politecnico di Torino, A.Y. 2020/21.
 
-Further details are provided in our paper: [An Ensemble Approach to Predict Beer Quality Score]().
+Further details are provided in our paper: [An Ensemble Approach to Predict Beer Quality Score](https://github.com/LeoMaggio/DSL-Beer-Scores/blob/main/Maggio_292938_Report.pdf).
 
 ---
 
